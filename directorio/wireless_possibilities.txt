@@ -1,0 +1,1333 @@
+﻿The Project Gutenberg eBook of Wireless Possibilities
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Wireless Possibilities
+
+Author: A. M. Low
+
+Release date: December 16, 2021 [eBook #66951]
+
+Language: English
+
+Credits: Tim Lindell, Martin Pettit and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK WIRELESS POSSIBILITIES ***
+
+WIRELESS POSSIBILITIES
+
+
+
+
+TO-DAY AND TO-MORROW SERIES
+
+
++DAEDALUS+, or Science and the Future
+
+     By J. B. S. Haldane
+
++ICARUS+, or The Future of Science
+
+     By Bertrand Russell, F.R.S.
+
++THE MONGOL IN OUR MIDST+, or Man and His Three Faces
+
+     By F. G. Crookshank, M.C.F.R.C.P.
+
++WIRELESS POSSIBILITIES+
+
+     By Prof. A. M. Low
+
+
+In Preparation
+
+     +TANTALUS+, or The Future of Man
+
+     By F. C. S. Schiller
+
+
+E. P. DUTTON & COMPANY
+
+
+
+
+WIRELESS POSSIBILITIES
+
+BY
+
+A. M. LOW
+
+_Late Hon. Asst. Professor of Physics
+at the Royal Artillery College
+Author of “The Two-Stroke Engine,” etc._
+
+[Illustration: Logo]
+
+_With four diagrams_
+
+NEW YORK
+E. P. DUTTON & COMPANY
+681 Fifth Avenue
+
+
+
+
+Copyright 1924
+By
+E. P. DUTTON & COMPANY
+
+_All Rights Reserved_
+
+
+Printed in the United States of America
+
+
+
+
+TO
+JOHN LOW
+
+
+
+
+PREFACE
+
+
+The effects of history upon the advance of science are often noted, but
+the result of the march of progress is more often entirely neglected.
+
+It would seem desirable that the future should be studied with
+reasonable accuracy if we are to protect ourselves from the ill-effects
+and obtain the benefit from the good fortunes of invention.
+
+A.M.L.
+
+
+
+
+WIRELESS POSSIBILITIES
+
+
+
+
+INVENTION
+
+
+Considering the very evident fact that we owe every detail of our
+lives, every little comfort which separates us from the cave-man, to
+the science of invention, it seems strange that so long should have
+elapsed before this remarkable faculty received proper recognition.
+
+Invention, in many ways, is the science and art of continuity of
+thought. The inventor is often referred to as a strange person; very
+true, very necessarily true when we realise that his doings must be
+strange or new, to be of value. To train oneself to forget the smell
+of the beefsteak when hungry and to continue the natural sequence of
+ideas which may be passing through the mind, is to train the brain to
+improve. If we can but sweep a crossing a very little cleaner than
+that next to our own, perhaps we have surely accomplished one of the
+greatest duties of all.
+
+If not one day is spent without something learnt, surely we have
+achieved the greatest object of work and enabled ourselves to realise
+that there are no such things as basic facts.
+
+Invention is not labour, for the latter is doing something we do not
+wish to do in some one else’s time, and invention like all good things
+is a work of love. Possibly that is why it is never paid!
+
+We are too apt, I think, all of us, to rejoice in our greatness as
+her devotees rejoiced in the greatness of Diana of the Ephesians: we
+should realise every time we undress that we are little removed from
+the animal, and that before many centuries have passed we shall be held
+in almost universal contempt.
+
+If that does not stir us to do our best, we are indeed a nation of
+shopkeepers. But even the proprietor of the meanest store relies on his
+powers of prophecy for his profits.
+
+The science of wireless is but a few years old. We know about it little
+more than our schoolboy sons, and in many cases not so much; let us
+therefore be open-minded if we are still ignorant.
+
+Commercial invention trusts too far to mass thinking: an original
+mistake is very closely related to an accomplishment.
+
+
+
+
+THE IMPORTANCE OF SOUND IN WIRELESS
+
+
+A few lines of history are desirable here. I do not mean the history
+controlled by the fact that William the Conqueror made many important
+appointments in A.D. 1066 or that Stephen was particularly busy in
+A.D. 1100. I mean the history of wireless, for, although Radio Science
+is new, it has a history; all time is relative, and we ourselves are
+functions of that phenomenon.
+
+Only a few years ago the efforts of wireless experimenters were
+entirely directed to the converting of the extremely delicate wireless
+oscillation, still but little understood, into a mechanical movement,
+in order that the motion of electrons in a problematical aether (which
+may be nothing but a thought projection and which may exist in many
+different forms) might be altered into something readable by a man with
+a check waistcoat and a stock and share list in his hand.
+
+That particular use, and the information that one army is about to kill
+another could be transmitted to headquarters, naturally occurred to
+everyone as the first valuable applications of Radio.
+
+The many devices, the electro-magnetic receivers, tape machines,
+coherers, syphon recorders and the thousand and one electrical machines
+produced at the time for these purposes, have practically all gone.
+
+Even when to-day we want to send messages quickly, we record them upon
+a Dictaphone and rely almost entirely upon the sense of hearing.
+
+Sound, the regular oscillation, and noise, the irregular oscillation,
+of the air, are really the beginning and end of wireless as it is known
+to the public to-day.
+
+I would go further when thinking of the public. They do not want to sit
+with a telephone upon their heads, even if their ears may be improved
+thereby. They require to walk into a drawing-room, and having stood
+for a moment upon the mat, they must be able to cross the room, touch
+a button in a fretwork cabinet, and by the movement of a lever be
+able to place themselves in touch with any part of the world. Paris,
+Hong-Kong, London, all must be one to them if we are to get their money
+for our art.
+
+In other words, we are compelled to use what we now designate the “loud
+speaker.” We have got to project a sound into the room before we can
+sell our instruments, and therein lies one great difficulty.
+
+In the first place we dare not exaggerate the movements of a delicate
+telephone very much or we shall spoil it--therefore we construct
+something which looks very much like a magnified telephone with a
+trumpet upon it. The mechanism is naturally rather heavy as regards the
+moving parts. In order to vibrate these heavy parts with the aid of
+our aetherial oscillations we have to amplify the available current,
+and during this process we naturally spoil the detail, or, in other
+words, we magnify it so much that electrical distortions occur through
+the whole range of various transformers and other items sold by every
+shop in the world--at double their value.
+
+Most people are not content with a gentle sound: they find it necessary
+to express their joy at having reached their home by dancing;
+consequently they want plenty of sound, and they do not mind if it
+turns into noise.
+
+They will tell you boldly that their wireless set with a couple of
+dozen foreign-made valves can be heard right across a large street,
+a street by the way in which we still permit as much nerve-shattering
+noise to occur as is thought necessary. This means that we must
+have quite a big movement on a diaphragm of large size, and a large
+diaphragm is made to move by the electrical oscillation, itself not
+very accurate; naturally, if it is heavy, like a poker or anything
+else, it has a will of its own, and therefore it continues to move when
+the wireless oscillation has told it to stop. It does not even commence
+to move when it is told to do so, as it would were it a thin delicate
+telephone diaphragm from which accurate music can be obtained.
+
+This means further distortion, and so bad is it that a great many
+people say plainly that they will only listen to wireless concerts
+through a telephone and that they will only use crystals to obtain
+rectification because of the inaccuracies otherwise unavoidable to-day.
+
+But this is not business, because do not forget we must have our
+cabinet with a fern upon it and beautiful music, if we are to be
+successful. Business always leads science, as we know.
+
+Now think why it is that we need this big diaphragm moving so hard to
+get a big noise; let us neglect electrical details and consider what
+produces the noise; or sound, if we are lucky.
+
+Sound is unfortunately purely a mechanical phenomenon as we chiefly
+understand it, and is produced by oscillations, alternate compression
+and rarefaction of the atmosphere. Unlike the aether, which sometimes
+oscillates only too readily, air is a heavy material and has great mass.
+
+You will soon find this out if you put your head out of a railway
+carriage window, because the air is so heavy that we have got to really
+kick it and hit it hard before we can obtain a reasonable degree of
+noise.
+
+When a speaker is standing at one end of a room, irrespective of what
+he says, the actual temperature-rise of the air can be measured, a fact
+which was used during the war for the inspection of sound.
+
+Sound is a very complicated thing. It can be reflected in much the same
+way as light, and I suppose most school-boys know that if a concave
+mirror is at one end of a room and a similar mirror at the other with
+a watch hanging at its focus, the watch cannot be heard by an observer
+walking across the room, yet as soon as he places his ear at the focus
+of the other mirror he will hear the tick clearly, showing that sound
+is easily reflected. Everybody who has heard an echo should know this.
+
+Sound travels also very slowly, and there is plenty of time for wind
+and different mechanical scraping effects to spoil the purity and
+partially absorb its delicacies.
+
+[Illustration: Fig. 1. Sound can be focussed by a concave reflector and
+by this means the tick of a watch can be heard at a distance. The watch
+and the end of the wooden rod are placed at the focus of the reflector.]
+
+Remember that if I am addressing a man by wireless who is one hundred
+miles away, someone who is listening on a telephone will hear my voice
+before I am heard at the end of the big hall where I am speaking,
+because the velocity of sound is only 1100 feet per second, and
+wireless, like light, travels much faster. Sound can also be actually
+refracted. Just as the old-fashioned jeweller used a globe of water to
+concentrate the light upon his work, so will a collodion balloon filled
+with carbon dioxide, the ordinary gas product of average combustion,
+act as a lens for sound, which can be actually focussed by these means.
+
+This exemplifies the complication of our subject, and indicates that
+the heavy diaphragm and other details of the loud speaker must produce
+serious distortion.
+
+Let us be honest at once. We can only hear such distant places as
+America by the grace of heaven. Even Sunlight can tune sweet song into
+vague cracklings. Until true tuning can be obtained we are largely at
+the mercy of the reproducing instrument, which too often exaggerates
+every fault and gives the impression that wireless and music are in no
+way related. No loud speaker of to-day really produces voice and song
+which sound exactly like voice and song. It all too much resembles a
+bad gramophone, but without the advantage of the user having the choice
+of the music.
+
+If user and manufacturer would concentrate upon obtaining purity, if
+they would try the effects of damping upon loud speakers, which are
+easily obtained; if they would realise that the horn of the loud
+speaker should be without resonance, that it should be also damped
+and pocketed, that its goose-necked shape is not adopted without an
+object, and if they would aim at the delivery of true music instead
+of noise--then, we should make a great advance. The average loud
+speaker can often be greatly improved by padding the horn with some
+kind of tape, and as an example of the great difficulties of proper
+transmission let it be made quite clear that with most cases of
+wireless communication the sending is nearly perfect. Reception is
+greatly at fault: it is the reception that mangles the sound and makes
+it too often almost unbearable to anybody of reasonably sensitive
+hearing.
+
+At some large transmission stations it was at one time quite common to
+use three separate microphones for the modulation. One received notes
+of high pitch, one of low, and a third attempted to obtain the “S”
+sound with the result that, when this “S” microphone was adjusted for a
+man who did not say his “S” very loudly and someone appeared who did,
+it sounded exactly as if the speaker had dropped his false teeth.
+
+All this is now avoided. The ordinary diaphragm is no longer in use,
+but a very small coil of aluminium wire is suspended between the poles
+of an electro magnet, allowed to rest against an ordinary pad of
+cotton wool, and that is all!
+
+The infinitesimal movements of this aluminium coil will reproduce
+speech up to about 40,000 periods per second in oscillatory speed, yet
+speech is well recognisable if all frequencies over 4,000 per second
+are gridded out.
+
+How difficult it is going to be to make a large, heavy, and rapidly
+moving diaphragm reproduce accurately when we have had to take all
+these precautions to obtain accuracy of transmission! It is not
+impossible; it will come one day.
+
+Now let us see what is the result of our sound troubles.
+
+We are told that before long it will be quite easy to hear birds
+singing in trees and the waves beating against the seashore. Quite
+right, quite easy to do it now, but if a bird singing in a tree sounds
+like a man moving his condenser or walking about with a pair of squeaky
+boots, is it progress?
+
+[Illustration: Fig. 2. If light falls on a very thin diaphragm carrying
+a mirror, the sound waves being directed into it by a trumpet can be
+photographed upon a revolving sensitised film.]
+
+Perhaps it is. The whole point of wireless is that it brings a man into
+your room, but it must sound like the man himself if it is to be really
+effective; it is this pitiful quality of reproduced sound that has
+wrecked the talking cinema.
+
+It is very easy to photograph sounds and to reproduce them
+simultaneously with the projection of a picture, but to reproduce
+all the sounds of a cowboy scene accurately is, at present, almost
+impossible. If a hero says “Good-bye” to a heroine with a kiss like
+a creaking board, in the middle of a twenty-reel drama, instead of
+improving upon the effect of your imagination, which tells you that it
+is real, and which acts the scene for you better than it can be shown
+in life or sound, it would be like putting up a blackboard across the
+screen with the words written upon it, “this is not real--it is only
+a fake.” That is what is wrecking the talking cinema. As a scientific
+proposition it is easy, but the results are not good enough at present,
+and, if we can improve, let us first consider the loud speaker.
+
+The talking cinema will come as a matter of course. It is so easy to
+record sounds upon the film by photography with reproduction by the
+selenium cell or the neon tube; it is easy to photograph the wave;
+it is easy actually to impress the sound wave upon the film with the
+picture, or to use a gramophone; but reproduction is not like a human
+voice. Neither as yet is any reproduction ever like the voice itself.
+Let that painful fact be remembered.
+
+Unfortunately, from the business point of view, the long distance
+reproduction effect is usually satisfactory even when re-broadcasted
+upon telephones, and for business purposes it is immaterial whether the
+voice that records the profit or loss is harsh or pleasant.
+
+So the greatest effects we shall soon see from wireless and sound
+are these: we shall be able to speak to people all over the world by
+relaying and a combination of land-line and radio; we shall easily be
+able to connect our office with a wireless station on the coast, radio
+across the Continent, and then connect by land-line to another office
+on the other side of the Atlantic.
+
+All this is so easy that no one can doubt that we shall soon listen in
+to native jamborees; no one can doubt that we shall hear the strange
+cries of partisans at a baseball match taking place a few miles from
+New York; no one can question these things, and when reproduction
+becomes so accurate that the very nature of the people is revealed to
+us through their speech, surely we might be a little more neighbourly
+even with those whom we now pretend to love? Relations are notoriously
+quarrelsome.
+
+If you are in a concert hall and the number of people is varied,
+it will alter the effect of the sound. You have only to look at a
+sound-wave photograph produced from a violin to realise from its dainty
+intricacies that the least variation of any of its harmonics or the
+very exact shape of its wave beats will reveal all the difference
+between a beginner and the finest musician in the world. But these
+things are seldom noticed in wireless.
+
+It is quite easy to photograph a sound, by means of a diaphragm beside
+which a soap bubble is thick, and to compare wireless sound with the
+original; even then we have the great difficulties of resonance, and a
+diaphragm cannot reproduce properly. How, therefore, dare we neglect
+the dreadful sounds we hear in the name of radio music?
+
+If a piece of silvering, one thirty-secondth of an inch, be scraped
+from the back of a mirror and fastened to the outer part of a celluloid
+diaphragm (made by water-floating a drop of amyl acetate in which
+celluloid has been dissolved), it only requires a horn and a beam of
+light to render visible the waves of sound. A diaphragm movement of a
+millionth of a millionth of an inch is sometimes audible.
+
+It is the science of wireless that is beautiful; it is the
+possibilities that are wonderful; but to talk of pure sound and to
+judge of it by the human ear which varies after every meal, is like
+measuring the amount of current passing through an electric-light bulb
+by feeling its heat with the hand.
+
+It is not generally known that, during the War, experiments were made
+with a sound-reflector for listening to different types of aeroplane
+and submarine, by means of a microphone placed at the centre of a
+concave mirror. The difficulty was that of distortion, which is the
+whole source of trouble with sound producers to-day. Distance is
+no difficulty and when we can obtain purity and realism as well as
+distance, the latter is no difficulty at all; then only will be the
+time when we shall have that spontaneous mental realism of vision that
+will help radio to alter the world.
+
+In a few years time we shall be able to chat to our friends in an
+aeroplane and in the streets with the help of a pocket wireless set,
+and be able to do practically everything by the aid of radio that we
+now do with our voice.
+
+The only thing that will seem intensely strange will be that these
+comforts never existed before!
+
+
+
+
+WIRELESS INACCURACIES
+
+
+I have often wondered whether people realise that broadcasting, at
+present, is only possible or, shall I say is only popular, because of
+its extreme impracticability for most forms of secret communication.
+
+Supposing two people had been able to converse privately and with
+absolute secrecy from other “listeners in,” then we should not mind
+trusting all our messages to Radio. At present, what can be coded can
+be decoded, and we are not entranced by the idea of entrusting our
+pennies to the winds of Heaven and the vagaries of a thunderstorm.
+
+If wireless had really been selective in the first instance,
+broadcasting would not have been its initial phase.
+
+Wireless at present is excessively inefficient; a few yards from a
+large broadcasting station the power is measured in millionths of a
+horse-power, is disseminated in all directions, and is almost without
+definite selectivity.
+
+When the day comes when we can tune with absolute accuracy; when we
+can combine waves with accuracy and obtain a directional beam with the
+shortest waves for re-broadcasting purposes, then we shall obtain real
+happiness from the results.
+
+Parliament must have its special wave length, the divorce courts of
+the future will be broadcasted to prevent people from catching cold by
+waiting outside. It will be quite easy for the Judge, at a doubtful
+passage, to press a switch and to say, “I think we will cut that out.”
+
+One can imagine broadcasting of the future linking up every city from
+China to London; one can see special wave lengths for men, and equally
+special wave lengths for women. And we shall forget the time when ships
+at sea with ancient sets interfere with the murdering of music by the
+local amateur.
+
+It has been said that, at present, those in authority find it necessary
+to choose special voices for the wireless broadcast-delivering. What
+an idea! The public want to hear everybody. They want to have local
+events broadcast, irrespective of the operator. They do not want a
+perfect voice, they want a perfect personality, and it is rather the
+wireless that must be altered to take any reception than the human
+voice whose very characteristics delight us.
+
+We are too accustomed to relying upon our senses. We are apt to think
+that the ear is most delicate. It is nothing of the kind; it cannot
+even hear notes that delight the heart of a dog, and if one pictures
+life with the brain of a man, the ear of an antelope, and microscopic
+eyes, together with the nose of a dog, some little idea of the
+inefficiency of those few senses which we slightly understand can be
+obtained.
+
+To live in any town would be impossible: the smells of Bond Street
+instead of pleasing the dog would tell us of rotting animal matter and
+alarm us to distraction. We could never sit down upon a beautiful piece
+of grass without listening to the worms and imagining ourselves with
+them. We could not bear to drink water for the peculiar bodies we would
+see in it. The wind in the trees, the people walking down our street or
+into our rabbit-warrens of flats, would sound like a battle from afar.
+
+It is only a question of relative senses, easily tested by anyone
+who has the patience to fit an effective microphone to the amplifier
+purchased in mahogany case at the local “store.”
+
+Wireless inaccuracies abound; anyone who hears its music will agree,
+but what of their effect upon our bodies!
+
+The air, popularly speaking, must now be full of radio oscillations,
+and if you tell me that they are negligible in effect I may believe
+you, but if I hear there is no effect at all, I know that it cannot be
+true.
+
+It is more than likely that, in the far future, the proper study
+of oscillatory theories, the proper investigation of the spectrum
+only very partially explored by a few, will lead us to a better
+understanding of the nature of life, and will help us to appreciate
+the theories of electrical sonics. Theories of preventing local
+thunderstorms, of growing babies and wheat effectively, by electrical
+or other similar oscillatory means, of helping ourselves to see by
+wireless and of affecting our health at the end of many generations for
+the better, may all be developed in the time to come.
+
+If some health effect is produced, why should we not try to render it
+beneficial? A small effect can be very cumulative in nature. One has
+only to inspect a human nail to agree with that statement.
+
+
+
+
+RADIO TELEVISION
+
+
+It has been said of sound that a bell never ceases to echo and that the
+human voice never ceases when once words are spoken; truly, it is an
+alarming thought when the nature of most of our sayings is realised.
+
+Not long ago it was claimed that by means of a delicate microphone
+the sayings of Henry VIII had been investigated--though nature of the
+subject was, with not less delicacy, omitted.
+
+Much the same basic ideas apply to light except that we are dealing
+with a very much more interesting phenomenon, one indeed which is
+not apparently too material and a sense which gives us nearly all our
+nonphysical sensations.
+
+We actually transmit very few senses: we merely convert their nature
+by utilising different portions of the spectrum. Light has undoubtedly
+its tone values, as in the case of sound, and it has not yet been
+definitely established with what portion of the body vision is actually
+obtained. It is likely that light is projected along the electro lines
+of force by the movement of electrons but whether the ether consists
+of electrons themselves, whether it exists in many forms, or is merely
+a result of the mass effect of thought, we do not yet know. Light
+very possibly proceeds from the eye as well as from the luminous body
+concerned.
+
+The science of Radio has taught us something of light, but only to
+a modest extent, for light yet remains one of the most inefficient
+factors of a civilisation which almost entirely depends upon it for
+existence.
+
+There is a strange factor which we may call the “Law of Supply and
+Demand.” This strongly implies the faculty of invention, a facility of
+“wishfulness to improve”; something far better than the necessity for
+invention. Let us remember that our clothes are not necessities; they
+are merely comfortable, and it is comfort that distinguishes us to-day
+just as it is convenience that will in the future give us a life which
+will be better by far than that experienced by the kings and princes of
+to-day.
+
+Civilisation has depended almost entirely upon the speeding up
+of communication. We can travel fast; we can convey our thoughts
+at great speed, but, unfortunately, although all these means of
+intercommunication are devised with the one idea of preventing
+physical work and of obviating the movements of our gross bodies, our
+senses are very closely combined. It is consequently not possible to
+ring up somebody on the wireless telephone, a fact itself easy of
+accomplishment, and to impress our personality upon the listener. This
+is simply because we require a combination of senses for hearing,
+seeing, smelling, and other reactions, in order to convey our whole
+personality.
+
+Vision at a distance is, therefore, very necessary as our inclination
+for travel decreases and its comfort increases.
+
+It is also important from the point of view of “speeding up,” which
+we have no reason to suppose will cease. All operations have steadily
+increased in speed for many generations.
+
+There was a time when we made appointments to meet our friends at the
+full of the moon, but now we say at “10 o’clock, and I can only give
+you two minutes.” In the future we shall probably say, “Meet me at
+10.2.1-5 secs., and do not keep me waiting.” To do this we must have
+radio sight.
+
+Many years ago, when experiments were made on the subject, the usual
+cry appeared from what I always mentally typify as the “Flat Earth
+Brigade”; they said, “Impossible.” What would our forebears have said
+of talking to a man in an aeroplane? “Impossible!” It is a foolish
+word. Now all over the world experiments are being conducted, many of
+them with success and some with the guarantee of reasonable success in
+twenty years or less.
+
+Now wireless, if I may apply the word here, is very like light in many
+ways; it is capable of refraction and shadow effects; it travels at the
+same speed, and if the wave-lengths of wireless could be sufficiently
+shortened to become visible we should probably find ourselves with a
+new, and possibly effective, method of transmitting wireless light and
+even power.
+
+Radio is a phenomenon of the spectrum like ordinary photographic light,
+X-rays, and so on. It is effects which determine the difference to our
+eyes of things invisible, solid, and transparent.
+
+It may well be that, when we succeed in inter-planetary communication,
+we shall discover that the inhabitants see by the X-ray, by wireless,
+or by heat.
+
+It is not difficult to obtain a proportionate interchange of radio
+and light oscillations. Even sunlight affects wireless telegraphy,
+and experiments which have been conducted upon the carrying and
+directional power of certain other rays and oscillations have not
+been entirely without results. We may, one day, obtain far greater
+sensitivity of direction, greater carrying power, from small initial
+output with a degree of selectivity almost infinite, in comparison with
+modern working.
+
+To use a light beam along which we can talk, to use a light beam
+initially and to turn it into light when required, is by no means
+difficult; it suggests the direct method of wireless vision, but from
+the mechanical aspect the problem is still less complicated. The
+difficulties of Radio Television to-day are constructional; in the far
+future it may be a question of pure physics.
+
+There is, at least, one simple method of sending photographs
+by wireless with a reasonable degree of accuracy. Distance,
+re-broadcasting, relaying are, none of them, of any great technical
+importance. Interference is certainly a difficulty, for in the case of
+a picture the eye cannot distinguish between faults so easily as the
+ear can automatically separate unpleasant noises from music.
+
+If an ordinary photograph is transferred to a copper plate, either
+flat or round, and a contact finger is allowed to pass over it,
+clearly the resistance between the plate and the finger will vary with
+the thickness of the photographic film. If this resistance is used
+to modulate the transmission in place of an ordinary microphone for
+speech, the current at the receiving end can be picked up, amplified,
+and used to mark darkly, lightly, or not at all, upon a prepared piece
+of paper which is affected by the passage of an electric current.
+
+By these means good photographs can be reproduced, and doubtless in the
+future we shall be able to sign our cheques by the rapid transmission
+of motion; we shall be able to trace criminals, send out their
+finger-prints, and carry on very many classes of business which, at
+present, require our bodily attention.
+
+[Illustration: Fig. 3. If light passes through the negative to be
+transmitted on to a selenium cell which modulates in place of a
+microphone, the wave can be picked up, amplified, and made to open or
+close a shutter. This permits another light to record, spot by spot,
+the reproduction of the original photograph.]
+
+What a help to the man who objects to a large city. Why could he not
+conduct his business from his house in comfort instead of having his
+spats washed every week in order to maintain his financial reputation?
+
+There is a still more rapid method of transmitting a photograph: it is
+to allow the light from an ordinary lamp to pass through a spot upon
+the negative and then to a selenium cell. Selenium is so constituted
+that its resistance to the passage of electricity varies with the
+amount of light to which it is exposed. This property has been used to
+light up and to extinguish ordinary street lamps, for demonstration
+purposes.
+
+If a selenium cell is used in place of the ordinary broadcasting
+microphone, the transmission can be modulated in accordance with the
+passage of the light through a black spot on the negative, such as part
+of a top hat, or a white spot, such as a white face or part of it.
+
+The received current is picked up and amplified in the ordinary manner,
+but instead of operating a diaphragm to produce speech, it is taken
+to a kind of electrically operated venetian blind, which allows light
+to pass through it or not to pass through it, in accordance with the
+transmitting current.
+
+It requires little imagination to see that, if a beam of light is
+allowed to pass through each point of the original negative in turn,
+the final picture can be built up from “spots” somewhat in the manner
+of a half-tone block.
+
+It takes a long time, is rather patched, and is liable to interference;
+but the whole process is perfectly simple. Consider the great
+importance of this experiment to Radio Television.
+
+The human eye sees only one point at a time but in the fact that
+instantaneous vision of a complete picture is not necessary lie our
+hopes of television to-day.
+
+The eye is a very defective piece of mechanism considered from an
+optical standpoint. The pointed rays which appear to come from stars
+show one example of faulty optical construction, however wonderful
+may be the whole structure. Another property, and a feature of great
+importance from the aspect of television, is that of retentivity.
+
+We all know that when a lighted cigarette is whirled round in the hand
+the result appears to be a ring of fire. Our brain assures us that
+the eye is telling lies and that it is really a moving point. This is
+because the image is impressed and actually lasts upon the eye or its
+retina.
+
+This phenomenon is used in every cinematograph; without it the ordinary
+film would not be practicable. Each picture of an arm about to light a
+cigarette shows the arm constantly closer and closer, and before one
+picture has had time to die out the other is thrown upon the screen.
+The result is an illusion of motion.
+
+To return to the transmission of a photograph, let us imagine that it
+is sent in a series of spots beginning in the top left-hand corner at
+12 o’clock: the bottom spot will probably be completed, at modern
+sending speeds, by about 12.15, in the case of a picture two inches
+square.
+
+Clearly all we have to do is to reduce this time to 4/5 of a second
+altogether, and we shall be again sending the first spot before it has
+had time to die away from the apparent vision of the observer. In other
+words, we will see by wireless.
+
+The obvious method of assisting in this speeding up of sending the
+thousands of spots, would be to graduate them by some means of rotary
+conversion or to decrease the number of spots. The latter is one method
+by which practical television can be accomplished to-day.
+
+[Illustration: Fig. 4. If a photograph is divided into spots and the
+last be sent only 4/5 sec. after the first, television can be obtained;
+but if the spots must be large to do this, only such items as the
+difference between a cross and a circle can be observed.]
+
+It would be quite easy to fix up an apparatus by means of which
+we could show whether an office in New York was lit up or not,
+the observer being situated in London. This is a form of energy or
+combination of phenomena which amounts to wireless sight, but it does
+not help us to see shapes or forms or to say if the light is from a
+candle, the sun, or an arc lamp.
+
+By increasing the number of cells from one to, let us say, twenty, we
+could possibly indicate the difference between the moving shadow of a
+cross or a circle, but to radiate detail is a very difficult problem,
+which doubtless will be partially solved within the next few years. The
+electro-magnetic theory of light and the phenomena exhibited by the
+neon tube, present many opportunities.
+
+What an excellent invention this will be! It means that a telescopic
+camera could be attached to an aeroplane and the views seen by
+thousands in a cinematograph theatre who may have the pleasure of
+witnessing the finish of a horse-race and knowing without loss of time
+how much money they have lost.
+
+It would mean that the crew of a ship, a submarine in difficulties, or
+the passengers in an aeroplane, might be visible to people many miles
+away. It could not yet occur without their wish, for the transmitting
+apparatus must first be put into operation.
+
+The senses of seeing and hearing are possibly amongst the most
+important of all, and, if we can convey both of them to a distance, it
+means that we can call friends, nations, music, and personalities to
+our fireside, by the touching of a button.
+
+Such possibilities need no enlargement. Wireless may prove a far more
+rapid link than the ordinary increase of travelling speed and may help
+nations to intermingle to the common good.
+
+The question of seeing in colours has hardly yet been considered, but
+that also will come to us, however great the difficulties may appear
+to-day.
+
+Certainly Leagues of Peace will have more arguments, and Generals will
+have more weapons.
+
+The laziest millionaire to-day, in a physical sense, will be
+hard-worked in comparison with the fortunate individual of the
+scientific future. We will travel in the best possible manner and in
+such comfort that the mind will be free to receive impressions. Our
+main objective will be to train it for that purpose.
+
+After all, what more can we do now?
+
+
+
+
+WIRELESS AND WAR
+
+
+The subjects of War and Wireless cover a multitude of closely allied
+ills.
+
+It is only natural that wireless should first have been applied to Love
+and War. I remember well one of the most remarkable applications of
+wireless mentioned in the press in the early days was that of a cable
+sent to an unfortunate man in mid-ocean, informing him that an all too
+successful arrival of twins had taken place.
+
+War is, of course, a natural process a little less educated, and more
+unkind, in consequence, than birth control.
+
+Most inventions are first applied to the science and art of warfare.
+Perhaps we should not regard this as all to the bad, for War has a
+remarkable capacity for acceleration.
+
+Development of the wireless valve was greatly assisted by the War: the
+aeroplane, the art of plastic surgery, and many other human benefits
+have arrived more rapidly from the same cause.
+
+Let us see, therefore, what wireless can do now, and what it may
+accomplish for the future of organised destruction.
+
+Mentally, the fittest should survive, in both the realms of invention
+and physiology. It is only a few years since wireless was of no
+intrinsic value for ordinary land warfare, by virtue of the fact that
+interference was extremely easy, and that any coded message could be so
+easily decoded.
+
+At present wireless messages are chiefly of service where secrecy is
+not of such importance as speed; but an enormous number of experiments
+are being conducted upon beam wireless, directional wireless, and in
+the combination of the Radio oscillation with some other oscillations
+such as those of visible or invisible light. By these means secrecy
+will be obtained when we discover how to use small powers for long
+distance, but at present Radio is chiefly of value as a time-saver.
+
+The pilot in an aeroplane can talk to his base: he will soon be able
+to write and transmit vision from a plane which could be controlled
+by wireless. The time will come when low-flying wireless planes will
+explore, and render visible at many miles distant, places where no
+human pilot could remain for any length of time in safety.
+
+It is not long ago that we rejoiced because a damaged ship was able to
+call for help by wireless, but we have only to look back to a recent
+war to remember an occasion when one ship was totally unable to call
+assistance because its wireless was jammed. In other words, enemy
+interference was possible.
+
+This should show us how far we have yet to go in an utterly new and
+very little understood science.
+
+We began with sparks, we progressed to coherers, and now we have
+valves; but let it not be thought for a moment that the valve
+represents finality to any thinking being.
+
+Broadcasting at present has really become so universal only on account
+of the exceedingly public nature of wireless, for, when we are able
+to obtain accuracy of tuning and direction, we shall not only use the
+latter to guide ships at sea, but we shall have correspondence which
+can be conducted with a reasonable degree of secrecy. We shall have
+special wave-lengths for the Government, special wave-lengths for
+Parliamentary debates, and the Divorce Courts. We shall not conduct
+our conversations in such a manner that any schoolboy with a piece of
+wire, a needle, and some sugar, can promptly listen in.
+
+The very idea suggests a new “Peeping Tom.”
+
+As far as communication is concerned, we shall have whole armies in
+instantaneous touch with each other: it may indeed make real secrecy
+more difficult. It should always be recollected that when we refer
+to wireless speech, wireless control, and Radio Vision, we do not
+necessarily mean the same form of electrical wave by which we now
+broadcast a comic opera.
+
+It is with oscillation that we are really concerned, and we may
+discover many forms of electronic vibration at present occupying
+portions of the so-called spectrum which are as yet very little
+understood.
+
+It may be impossible for the Commander-in-Chief of the future to
+conceal a document from the eyes of wireless; and who knows but that
+the electrical operation of thought may be reduced to a science so that
+our very ideas are not secret without protection?
+
+How many of us to-day could risk all our thoughts being known? It would
+probably improve moral standards if they were published: science tends
+to effect an average improvement.
+
+We have never yet really seen the extraordinary value of wireless in
+war. If we had solved the problem of selection, the transference of
+speech by phonograph records dropped from aeroplanes would never have
+arisen.
+
+Undoubtedly, we shall see wireless controlled tanks, submarines,
+and torpedoes on both land, air, and water. All will be accurately
+controlled, and they will possibly be able to find their way home and
+to operate from a distance while out of sight.
+
+Even to-day it is possible for an aeroplane to operate a torpedo, to
+steer it properly, to slow it down; and for a pilot of an aeroplane
+many miles away to work his will upon it with a reasonable degree of
+accuracy and with the help of a gyro control.
+
+The day will undoubtedly come when the problem of defending an island
+is not that of the mainland itself but of all its dependencies.
+
+No large town could live for long if it were bombed from a distance by
+wireless, if gassed and poisoned from a distance, were it not for the
+balance of protection and defence which is usually maintained by nature.
+
+We shall in the future, see forms of electric death and heat-rays which
+may materialise not as a direct projection of heat but as some form of
+oscillation which produces heat only when striking a metallic object.
+
+We have been so often told that power can be transmitted by Radio that
+we are apt to look upon this statement with contempt. This is quite
+wrong: power will one day be transmitted by wireless; power can at
+present be inductively sent over quite a large air gap, though the
+energy available quite close to any wireless station is practically
+negligible to-day.
+
+When motor-cars and ships are controlled or stopped by wireless, it is
+not the wireless which does the work; the therial oscillation merely
+sends signals to the ordinary operative mechanism.
+
+Much excitement has been caused by the alleged injury of aeroplanes and
+motor-cars by wireless, but how is it that they can afterwards proceed?
+Do we forget that the petrol engine has to be restarted, and that, if
+allowed to fire when a car was in gear, it might be damaged and would
+probably not operate the moving parts?
+
+If wireless power could be directed in such a form that it could be
+conveyed along a wave of “atomic” oscillation, many more valuable ends
+might be served than the enforced landing of aeroplanes.
+
+Our clocks could be corrected by wireless, experiments could be
+conducted upon the nature of light and ether in various forms. We might
+decide the mode of propagation of light and thought, and investigate
+the apparent motion of the electron along the electro lines of force.
+
+What an opportunity for study to the man of medicine! What a chance
+to find out how the oscillations of life are connected with those we
+partially understand.
+
+What a chance for the burglar to discover the presence of hidden
+spoons as a mass of metal by means of wireless; what a chance for the
+surveyor and the seeker after oil to use this all-prevailing sense of
+oscillation and even to discover the meaning of radiation.
+
+Oscillation--that is all we mean by Radio; and oscillation is at the
+base of life itself. It will not be long before travellers by air,
+land, and water, will be no longer alone.
+
+That they will be able to converse with their homes may seem no
+advantage, but that they can remain in touch with the rest of mankind
+is most obviously desirable.
+
+If this were understood to-day, I should not need to make noises
+with my lips or require the simulacra of these noises to be
+produced upon paper to convey my thoughts. If thought is a process
+of energy-conversion--and who will deny it?--what form of screening
+prevents its use, and why should its reception be confined eventually
+to life upon this particular and very troublesome planet?
+
+It is remarkable how little is known of wireless: the very simplicity
+of its painfully standardised features is a trap for the unwary. It
+is a universal science, but we do not yet know the correct diaphragm
+size for a loud speaker, nor how damping should be employed. The finest
+apparatus is available to all, and yet we do not understand the fullest
+range of wave-lengths. The study of radio-active materials and short
+wave radiation may in one day produce the cold-emitter valve, abolish
+the outside aerial, and bring to our closer understanding some of the
+many senses now so atrophied in mankind, that we can only speculate as
+to their existence. I doubt much if the schoolboy of the future will
+greatly esteem the radio expert of this century.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK WIRELESS POSSIBILITIES ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
